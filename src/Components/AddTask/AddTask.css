@@ -1,0 +1,10 @@
+.add_task input, .add_task button {
+    border: none;
+    background-color: white;
+}
+.add_task input {
+    border-right: 1px solid black;
+}
+.add_task button {
+    cursor: pointer;
+}
